@@ -1,0 +1,122 @@
+Fecha,,Hora,Camara,Objeto,Problema,Especifico,Comentario
+04/01/2016,,14:00,,motor,electrico,corriente,chequeo
+04/07/2016,,10:00,,motor,electrico,corriente,chequeo
+07/14/2016,,,caldera,caldera,ventilador,rodamiento,cambio
+07/15/2016,,,caldera,caldera,ventilador,correa,cambio
+07/20/2016,,,,motor,instalacion,instalacion,instalacion
+07/21/2016,,,2,motor,rotor,rodamiento,cambio
+07/22/2016,,,2,motor,rodamiento,no info,instalacion
+07/23/2016,,,2,motor,instalacion,instalacion,instalacion
+07/24/2016,,,2,motor,electrico,corto circuito,arreglo
+07/27/2016,,,1,motor,electrico,amperes,cambio
+07/27/2016,,,2,motor,electrico,amperes,cambio
+02/08/2016,,,2,motor,general,chequeo,chequeo
+03/08/2016,,,1,motor,electrico,corriente,medicion
+03/08/2016,,,2,motor,electrico,corriente,medicion
+06/08/2016,,,1,motor,electrico,corriente,chequeo
+06/08/2016,,,2,motor,rotor,rodamiento,chequeo
+08/09/2016,,,1,motor,instalacion,instalacion,instalacion
+08/19/2016,,,1,motor,rotor,rodamiento,chequeo
+08/19/2016,,,2,motor,rotor,rodamiento,chequeo
+08/19/2016,,,1,motor,electrico,corto circuito,arreglo
+08/19/2016,,,1,motor,ventilas,roturas,arreglo
+08/19/2016,,,2,motor,ventilas,roturas,arreglo
+08/22/2016,,,1,motor,instalacion,instalacion,instalacion
+08/23/2016,,,2,motor,Valvula de Paso,no info,cambio
+08/23/2016,,,1,motor,Valvula de Paso,no info,cambio
+08/23/2016,,,?,motor,instalacion,instalacion,instalacion
+08/25/2016,,,4,motor,instalacion,instalacion,instalacion
+08/25/2016,,,3,gabinete,instalacion,instalacion,instalacion
+08/25/2016,,,4,gabinete,instalacion,instalacion,instalacion
+08/26/2016,,,4,motor,instalacion,masas y aspas,instalacion
+09/01/2016,,,1,motor,cables,no info,regulacion
+09/01/2016,,,2,motor,cables,no info,regulacion
+09/02/2016,,,1,tablero,cables,,
+09/02/2016,,,2,tablero,cables,,
+09/05/2016,,,1,motor,instalacion,prensas,instalacion
+09/07/2016,,,1,motor,instalacion,instalacion,instalacion
+09/08/2016,,,4,motor,cableado,cableado,cableado
+09/14/2016,,,1,tablero,cableado,cableado,cableado
+09/14/2016,,,2,tablero,cableado,cableado,cableado
+09/14/2016,,,3,tablero,cableado,cableado,cableado
+09/14/2016,,,4,tablero,cableado,cableado,cableado
+09/21/2016,,,1,tablero,alimentacion,cableado,cableado
+09/21/2016,,,2,tablero,alimentacion,cableado,cableado
+09/21/2016,,,3,tablero,alimentacion,cableado,cableado
+09/21/2016,,,4,tablero,alimentacion,cableado,cableado
+09/22/2016,,,3,escalerillas,escalerillas,escalerillas,arreglo
+10/04/2016,,,3,escalerillas,escalerillas,escalerillas,instalacion
+10/06/2016,,,3,tablero,cableado,cableado,cableado
+10/07/2016,,,3,motor,prensas,prensas,instalacion
+11/11/2016,,,1,motor,conexion,conexion,arreglo
+11/16/2016,,,4,motor,conexion,conexion,arreglo
+11/19/2016,,,3,motor,aspas,regulacion,regulacion
+11/21/2016,,,3,motor,conexion,conexion,mantencion
+11/28/2016,,,3,ventilas,motor,motor,arreglo
+12/05/2016,,,2,motor,rotor,rodamiento,cambio
+12/06/2016,,,2,motor,barnizado,barnizado,barnizado
+12/07/2016,,,2,aspas,regulacion,regulacion,regulacion
+12/08/2016,,,2,motor,?,limpieza,limpieza
+12/13/2016,,,3,motor,conexion,mantencion,mantencion
+12/19/2016,,,1,motor,cambio,cambio,cambio
+12/19/2016,,,4,motor,cambio,cambio,cambio
+12/22/2016,,,3,motor,instalacion,instalacion,instalacion
+12/28/2016,,,3,motor,chicotes,conexion,mantencion
+10/11/2017,,,1,motor,cableado,cableado,instalacion
+10/25/2017,,,2,motor,rotor,rodamiento,cambio
+10/30/2017,,,4,aspas,pernos,pernos reventados,arreglo
+11/09/2017,,,3,motor,tablero,chequeo,mantencion
+11/09/2017,,,4,motor,tablero,chequeo,mantencion
+11/09/2017,,,2,motor,tablero,chequeo,mantencion
+01/09/2018,,,3,helice,instalacion,prueba,prueba
+01/16/2018,,,2,motor,quemado,quemado,cambio
+01/16/2018,,,2,motor,rotor,rodamientos,cambio
+01/17/2018,,,1,tablero,cableado,cableado,cableado
+01/19/2018,,,3,motor,cambio,helice,cambio
+01/23/2018,,,3,tablero,cableado,luces,cableado
+01/24/2018,,,4,motor,mantencion,mantencion,mantencion
+01/24/2018,,,4,helice,cambio,rodados,cambio
+01/30/2018,,,1,escalerillas,cambio,cambio,cambio
+01/30/2018,,,4,helice,instalacion,instalacion,instalacion
+01/30/2018,,,4,alarma,buzzer,cambio,cambio
+01/31/2018,,,1,motor,cordon,instalacion,instalacion
+02/01/2018,,,1,motor,cordon,instalacion,instalacion
+02/02/2018,,,1,motor,cordon,instalacion,instalacion
+02/02/2018,,,1,escalerillas,instalacion,instalacion,instalacion
+02/02/2018,,,2,escalerillas,instalacion,instalacion,instalacion
+02/02/2018,,,3,escalerillas,instalacion,instalacion,instalacion
+02/02/2018,,,4,escalerillas,instalacion,instalacion,instalacion
+02/05/2018,,,2,motores,instalacion,instalacion,instalacion
+02/05/2018,,,1,aspas,angulos,consumo excesivo de energia,mantencion
+02/06/2018,,,4,motores,rotor,rodamientos,cambio
+02/06/2018,,,1,motor,electrico,corto circuito,cambio
+02/07/2018,,,1,motor,estator,bobina,cambio
+02/07/2018,,,4,motor,helice,prueba,prueba
+02/08/2018,,,1,motor,instalacion,instalacion,instalacion
+02/08/2018,,,1,motor,cordon,conexion,conexion
+02/09/2018,,,1,motor,tablero,cableado,cableado
+02/14/2018,,,2,ventilas,cambio,cambio,cambio
+02/14/2018,,,1,ventilas,cambio,cambio,cambio
+02/16/2018,,,1,pr100,mantencion,mantencion,mantencion
+02/19/2018,,,1,tubos,cambio,cambio,cambio
+02/21/2018,,,1,helice,instalacion,instalacion,instalacion
+02/22/2018,,,1,switch,instalacion,instalacion,instalacion
+02/23/2018,,,2,motores,cordon,extraccion,extraccion
+02/23/2018,,,2,motores,cables,extraccion,extraccion
+02/23/2018,,,2,sensores,extraccion,extraccion,extraccion
+02/26/2018,,,1,motor,mantencion,mantencion,mantencion
+02/26/2018,,,1,switch,mantencion,mantencion,mantencion
+02/26/2018,,,1,pt100,mantencion,mantencion,mantencion
+02/28/2018,,,4,motor,cambio,cambio,cambio
+02/28/2018,,,4,motor,extraccion,extraccion,extraccion
+04/23/2018,,,1,motor,mantencion,mantencion,mantencion
+04/23/2018,,,3,motor,mantencion,mantencion,mantencion
+04/23/2018,,,4,motor,mantencion,mantencion,mantencion
+04/26/2018,,,1,ventilas,,articulacion eje,reparacion
+04/27/2018,,,,wangner de medicion de humedad,reparacion,reparacion,reparacion
+04/27/2018,,,1,motor,hilo,,mantencion
+05/07/2018,,,1,cables,conexion,conexion,conexion
+05/07/2018,,,2,cables,conexion,conexion,conexion
+05/07/2018,,,3,cables,conexion,conexion,conexion
+05/07/2018,,,4,cables,conexion,conexion,conexion
+05/11/2018,,,4,motor,chequeo,chequeo,chequeo
